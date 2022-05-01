@@ -1,0 +1,14 @@
+{
+  "name": "happy-hour",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.6.0"
+  },
+  "scripts": {
+    "hydrate": "",
+    "time-to-drink": "cypress run",
+    "cy:open": "cypress open"
+  }
+}
